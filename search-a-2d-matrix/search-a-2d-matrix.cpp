@@ -34,8 +34,10 @@ int main()
 {
     auto sol = new Solution();
     // vector<vector<int>> test = {{1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 60}};
-    vector<vector<int>> test = {{1}, {3}};
-    cout << sol->searchMatrix(test, 3);
+    // vector<vector<int>> test = {{1}, {3}};
+    // cout << sol->searchMatrix(test, 3);
+
+    cout << 4 / 3;
     // sol->partition(test, 0, test.size(), 3);
     // cout << sol->findKthLargest(test, 4) << endl;
 
