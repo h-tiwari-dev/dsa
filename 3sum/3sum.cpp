@@ -1,15 +1,16 @@
-#include <bits/stdc++.h>
-#include <bitset>
+#include<set>
+#include<vector>
+#include<iostream>
 
 using namespace std;
 
 class Solution
 {
 public:
-    vector<vector<int>> threeSum(vector<int> &nums)
+    vector<vector<int> > threeSum(vector<int> &nums)
     {
-        set<vector<int>> result;
-        vector<vector<int>> return_value;
+        set<vector<int> > result;
+        vector<vector<int> > return_value;
         int j, k;
         sort(nums.begin(), nums.end());
         for (int i = 0; i < nums.size(); i++)
