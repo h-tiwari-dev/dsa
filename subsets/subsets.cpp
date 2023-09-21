@@ -10,6 +10,7 @@ class Solution
 public:
     vector<vector<int>> subsets(vector<int> &nums)
     {
+
         set<vector<int>> result;
         set<int> mem_values;
         vector<int> curr_value;
