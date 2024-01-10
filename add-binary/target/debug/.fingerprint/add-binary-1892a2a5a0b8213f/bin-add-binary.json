@@ -1,1 +1,0 @@
-{"rustc":4936231744503104448,"features":"[]","target":16705855558177671973,"profile":7309141686862299243,"path":1684066648322511884,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/add-binary-1892a2a5a0b8213f/dep-bin-add-binary"}}],"rustflags":["--cfg=web_sys_unstable_apis"],"metadata":7797948686568424061,"config":2202906307356721367,"compile_kind":0}
